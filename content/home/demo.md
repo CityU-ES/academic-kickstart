@@ -57,4 +57,4 @@ August 17 2019
 
 ## Venue
 
-Lau Ming Wai Academic Building, City University of Hong Kong
+8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
