@@ -3,37 +3,36 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 8  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "People"
+title = "Speakers"
 subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 # user_groups = ["Principal Investigators", "Researchers", "Grad Students", "Administration", "Visitors", "Alumni"]
 +++
-## Speakers
 ### Keynote Speaker 
 **Jean-Marie Dufour** 
 	*McGill University*
 
-- **Kin Wai Chan**
+**Kin Wai Chan**
   *Chinese University of Hong Kong*
 
-- **Liyuan Cui**
+ **Liyuan Cui**
 *City University of Hong Kong*
-- **Lilun Du**
+ **Lilun Du**
 *Hong Kong University of Science and Technology*
 
-- **Zhonghao Fu**
+ **Zhonghao Fu**
 *Fudan University*
-- **Jun Liao**
+ **Jun Liao**
 *Renmin University of China*
-- **David Rapach**
+ **David Rapach**
 *Saint Louis University*
-- **Yuying SUN**
+ **Yuying SUN**
 *Chinese Academy of Science*
-- **Xiaohu Wang**
+ **Xiaohu Wang**
 *Chinese University of Hong Kong*
-- **Xingbai Xu**
+ **Xingbai Xu**
 *Xiamen University*
