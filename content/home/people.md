@@ -17,7 +17,13 @@ columns = 2
 ## **Keynote Speaker** 
 ### **Jean-Marie Dufour**  *McGill University*
 
-$$\color{green}{\Large\mathbf{McGill University}}$$
+| **Kin Wai Chan**                  | **Liyuan Cui**                 |
+| --------------------------------- | ------------------------------ |
+| *Chinese University of Hong Kong* | *City University of Hong Kong* |
+|                                   |                                |
+|                                   |                                |
+|                                   |                                |
+|                                   |                                |
 
 **Kin Wai Chan**    
 
