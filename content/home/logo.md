@@ -25,8 +25,8 @@ weight = 105  # Order that this section will appear.
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -48,4 +48,4 @@ weight = 105  # Order that this section will appear.
 
 +++
 
-![avatar](logo.jpg)
+![avatar](/img/logo.jpg)
