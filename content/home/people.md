@@ -78,10 +78,10 @@ css_class = ""
 ## **Keynote Speaker** 
 ### **Jean-Marie Dufour**  *McGill University*
 
-| **Kin Wai Chan** Chinese University of Hong Kong            | **Liyuan Cui**  City University of Hong Kong      |
+| **Kin Wai Chan** *Chinese University of Hong Kong*            | **Liyuan Cui**  *City University of Hong Kong*      |
 | ----------------------------------------------------------- | ------------------------------------------------- |
-| **Lilun Du** Hong Kong University of Science and Technology | **Zhonghao Fu** Fudan University                  |
-| **Jun Liao** Renmin University of China*                    | **David Rapach** Saint Louis University*          |
+| **Lilun Du** *Hong Kong University of Science and Technology* | **Zhonghao Fu** *Fudan University*                  |
+| **Jun Liao** *Renmin University of China*                    | **David Rapach** *Saint Louis University*          |
 | **Yuying SUN** *Chinese Academy of Science*                 | **Xiaohu Wang** *Chinese University of Hong Kong* |
 | **Wenhao Wang**  *City University of Hong Kong*             | **Xingbai Xu** *Xiamen University*                |
 
