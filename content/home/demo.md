@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Workshop in Econometrics and Statistics"
-subtitle = "2019.08.17"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
