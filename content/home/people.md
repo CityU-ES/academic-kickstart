@@ -14,12 +14,18 @@ columns = 2
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 # user_groups = ["Principal Investigators", "Researchers", "Grad Students", "Administration", "Visitors", "Alumni"]
 +++
-## Keynote Speaker 
-### **Jean-Marie Dufour** 
-### *McGill University*
+## **Keynote Speaker** 
+### **Jean-Marie Dufour**  *McGill University*
 
-**Kin Wai Chan**    **Liyuan Cui**
-  *Chinese University of Hong Kong*     *City University of Hong Kong*
+$$\color{green}{\Large\mathbf{McGill University}}$$
+
+**Kin Wai Chan**    
+
+*Chinese University of Hong Kong*
+
+**Liyuan Cui**
+
+*City University of Hong Kong*
 
  
 
