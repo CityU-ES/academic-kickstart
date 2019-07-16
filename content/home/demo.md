@@ -46,9 +46,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## DATE
+## DATE & TIME
 
 ## August 17 2019
+## 9:00 am -6:00 pm
 
 ## Session Chair
 
