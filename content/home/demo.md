@@ -53,8 +53,8 @@ subtitle = ""
 
 ## Session Chair
 
-### &emsp;&emsp;&emsp;          *    Gavin Feng 
-###   &emsp;&emsp;&emsp;       *    Alan Wan
+### &emsp;&emsp;&emsp;          *    Gavin Feng (gavin.feng@cityu.edu.hk)
+###   &emsp;&emsp;&emsp;       *    Alan Wan (msawan@cityu.edu.hk)
 
 ## Venue
 
