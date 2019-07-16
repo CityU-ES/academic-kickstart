@@ -81,7 +81,7 @@ css_class = ""
 #### &emsp;&emsp;*McGill University*
 ---
 
-| SPEAKERS                                                     |                                                   |
+|                                                      |                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------- |
 | **Kin Wai Chan** *Chinese University of Hong Kong*           | **Liyuan Cui**  *City University of Hong Kong*    |
 | **Lilun Du** *Hong Kong University of Science and Technology* | **Zhonghao Fu** *Fudan University*                |
