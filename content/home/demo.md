@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Workshop in Econometrics and Statistics"
+title = ""
 subtitle = ""
 
 [design]
@@ -48,13 +48,13 @@ subtitle = ""
 +++
 ## DATE
 
-August 17 2019
+## August 17 2019
 
 ## Session Chair
 
-- Gavin Feng 
-- Alan Wan
+## *    Gavin Feng 
+## *    Alan Wan
 
 ## Venue
 
-8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
+##  8th floor, Lau Ming Wai Academic Building, City University of Hong Kong

@@ -73,10 +73,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-| Starting Session (Alan Wan)                 |        |                               |
+| Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
 | ------------------------------------------ | ---------------- | ---------------- |
-| Openning   Speech: Dean or Head |  TBA         | 9:00 - 9:15 am   |
+| Starting Session (Chair: Alan Wan)                 |        |                               |
 | Keynote   Speech: Jean-Marie Dufour|    TBA    | 9:15 - 10:00 am  |
 | *1st   Coffee Break*               |        | 10:00 - 10:30 am |
 | **1st Session (Xu Han)**        |        |                     |
@@ -94,6 +93,6 @@ subtitle = ""
 | Speaker   8: Siying Sun           |    TBA                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun Liao               |    TBA               | 5:00 - 5:30 pm   |
 | Speaker   10: Wenhao Wang    |    TBA                      | 5:30 - 6:00 pm   |
-| **Ending   Remark**             |           | 6:00 - 6:05 pm   |
+| **Closing   Remark**             |           | 6:00 - 6:05 pm   |
 
 
