@@ -18,6 +18,4 @@ subtitle = ""
 # email_form = 2
 +++
 
-**Email Contact:**
-
-    TBA
+**Email Contact:** TBA
