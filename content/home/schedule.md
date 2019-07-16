@@ -74,22 +74,22 @@ subtitle = ""
  css_class = ""
 +++
 
-| Starting Session (Alan Wan)                                                 |
+| Starting Session (Alan Wan)                 |        |                               |
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: Dean or Head |  TBA         | 9:00 - 9:15 am   |
 | Keynote   Speech: Jean-Marie Dufour|    TBA    | 9:15 - 10:00 am  |
 | *1st   Coffee Break*               |        | 10:00 - 10:30 am |
-| **1st Session (Xu Han)**                             |
+| **1st Session (Xu Han)**        |        |                     |
 | Speaker   1: Xingai Xu               |    TBA              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu Wang         |    TBA                  | 11:00 - 11:30 am |
 | Speaker   3: Lilun Du                   |    TBA           | 11:30 - 12:00 pm |
 | *Lunch   Break*                          |            | 12:00 - 2:00 pm  |
-| **2nd Session (Gavin Feng)**                               |
+| **2nd Session (Gavin Feng)**       |        |                        |
 | Speaker   4: Liyuan Cui (or Yongmiao Hong)  |    TBA       | 2:00 - 2:30 pm   |
 | Speaker   5: Dave Rapach         |    TBA                  | 2:30 - 3:00 pm   |
 | Speaker   6: Zhonghao Fu          |    TBA                 | 3:00 - 3:30 pm   |
 | *2nd   Coffee Break*                 |      | 3:30 - 4:00 pm   |
-| **3rd Session (Alan Wan)**                                |
+| **3rd Session (Alan Wan)**         |        |                       |
 | Speaker   7: Kin Wai Chan        |    TBA                  | 4:00 - 4:30 pm   |
 | Speaker   8: Siying Sun           |    TBA                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun Liao               |    TBA               | 5:00 - 5:30 pm   |
