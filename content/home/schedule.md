@@ -78,7 +78,7 @@ subtitle = ""
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
  |**Starting Session (Chair: Alan Wan)**  | | |                                                   
 | Keynote   Speech: Jean-Marie Dufour|    TBA    | 9:15 - 10:00 am  |
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***1st   Coffee Break***                      | 10:00 - 10:30 am |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***1st   Coffee Break***       |               | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu Han)**  | | | 
 | Speaker   1: Xingai Xu               |    TBA              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu Wang         |    TBA                  | 11:00 - 11:30 am |
@@ -94,6 +94,6 @@ subtitle = ""
 | Speaker   8: Siying Sun           |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun Liao               |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
 | Speaker   10: Wenhao Wang    |    TBA                      | 5:30 - 6:00 pm   |
-| ***Closing   Remark***             |           | 6:00 - 6:05 pm   |
+| Closing   Remark             |           | 6:00 - 6:05 pm   |
 
 
