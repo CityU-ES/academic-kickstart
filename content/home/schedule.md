@@ -78,7 +78,7 @@ subtitle = ""
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
  |**Starting Session (Chair: Alan Wan)**  | | |                                                   
 | Keynote   Speech: Jean-Marie Dufour|    TBA    | 9:15 - 10:00 am  |
-| ***1st   Coffee Break***               |        | 10:00 - 10:30 am |
+ | ***1st   Coffee Break***                      | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu Han)**  | | | 
 | Speaker   1: Xingai Xu               |    TBA              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu Wang         |    TBA                  | 11:00 - 11:30 am |
