@@ -48,4 +48,4 @@ weight = 1  # Order that this section will appear.
 
 +++
 
-![avatar](/img/logo.jpg)
+![avatar](/img/logo.jpg) City University of Hong Kong
