@@ -48,14 +48,14 @@ subtitle = ""
 +++
 ## DATE & TIME
 
-&emsp; ## August 17 2019
-###    &emsp;     9:00 am -6:00 pm
+### &emsp;&emsp;&emsp;     August 17 2019
+###    &emsp;&emsp;&emsp;     9:00 am -6:00 pm
 
 ## Session Chair
 
-###          *    Gavin Feng 
-###          *    Alan Wan
+### &emsp;&emsp;&emsp;          *    Gavin Feng 
+###   &emsp;&emsp;&emsp;       *    Alan Wan
 
 ## Venue
 
-###          8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
+###     &emsp;&emsp;&emsp;     8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
