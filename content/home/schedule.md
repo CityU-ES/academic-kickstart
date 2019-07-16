@@ -79,17 +79,17 @@ subtitle = ""
  |**Starting Session (Chair: Alan Wan)**  | | |                                                   
 | Keynote   Speech: Jean-Marie Dufour|    TBA    | 9:15 - 10:00 am  |
 | ***1st   Coffee Break***               |        | 10:00 - 10:30 am |
-| **1st Session (Chair: Xu Han)**  | | | 
+ | **1st Session (Chair: Xu Han)**  | | | 
 | Speaker   1: Xingai Xu               |    TBA              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu Wang         |    TBA                  | 11:00 - 11:30 am |
 | Speaker   3: Lilun Du                   |    TBA           | 11:30 - 12:00 pm |
 | ***Lunch   Break***                          |            | 12:00 - 2:00 pm  |
-| **2nd Session (Chair: Gavin Feng)**   | | | 
+ | **2nd Session (Chair: Gavin Feng)**   | | | 
 | Speaker   4: Liyuan Cui (or Yongmiao Hong)  |    TBA       | 2:00 - 2:30 pm   |
 | Speaker   5: Dave Rapach         |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
 | Speaker   6: Zhonghao Fu          |    TBA                 | 3:00 - 3:30 pm   |
 | ***2nd   Coffee Break***                 |      | 3:30 - 4:00 pm   |
-| **3rd Session (Chair: Alan Wan)** | | | 
+ | **3rd Session (Chair: Alan Wan)** | | | 
 | Speaker   7: Kin Wai Chan        |    TBA                  | 4:00 - 4:30 pm   |
 | Speaker   8: Siying Sun           |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun Liao               |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
