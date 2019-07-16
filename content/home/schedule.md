@@ -74,10 +74,10 @@ subtitle = ""
  css_class = ""
 +++
 
-| Starting Session (Alan Wan)                |                  |
-| ------------------------------------------ | ---------------- |
-| Openning   Speech: Dean or Head            | 9:00 - 9:15 am   |
-| Keynote   Speech: Jean-Marie Dufour        | 9:15 - 10:00 am  |
+| Starting Session (Alan Wan)                |                  |                       |
+| ------------------------------------------ | ---------------- | ---------------- |
+| Openning   Speech: Dean or Head |    TBA       | 9:00 - 9:15 am   |
+| Keynote   Speech: Jean-Marie Dufour|        | 9:15 - 10:00 am  |
 | *1st   Coffee Break*                       | 10:00 - 10:30 am |
 | **1st Session (Xu Han)**                   |                  |
 | Speaker   1: Xingai Xu                     | 10:30 - 11:00 am |
