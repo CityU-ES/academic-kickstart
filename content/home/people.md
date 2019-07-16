@@ -77,8 +77,8 @@ css_class = ""
 
 ## **Keynote Speaker** 
 ### &emsp;&emsp;**Jean-Marie Dufour**  
-### &emsp;&emsp;&emsp;**Professor & William Dow Chair of Political Economy**
-### &emsp;&emsp;&emsp;*McGill University*
+### &emsp;&emsp;*Professor & William Dow Chair of Political Economy**
+### &emsp;&emsp;*McGill University*
 ---
 
 | SPEAKERS                                                     |                                                   |
