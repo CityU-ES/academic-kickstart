@@ -94,7 +94,7 @@ subtitle = ""
 | Speaker   6: Zhonghao FU         |    TBA                 | 3:00 - 3:30 pm   |
 |                  |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
  | **3rd Session (Chair: Alan WAN)** | | | 
-| Speaker   7: Kin Wai CHAN        |    TBA                  | 4:00 - 4:30 pm   |
+| Speaker   7: Kin Wai CHAN        |    Estimator of asymptotic covariance matrix in non-stationary time series                  | 4:00 - 4:30 pm   |
 | Speaker   8: Siying SUN          |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun LIAO               |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
 | Speaker   10: Wenhao WANG    |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:30 - 6:00 pm   |
