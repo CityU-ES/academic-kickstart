@@ -82,10 +82,10 @@ css_class = ""
 
 |                                                      |                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------- |
-| **Kin Wai Chan** *Chinese University of Hong Kong*           | **Liyuan Cui**  *City University of Hong Kong*    |
-| **Lilun Du** *Hong Kong University of Science and Technology* | **Zhonghao Fu** *Fudan University*                |
-| **Jun Liao** *Renmin University of China*                    | **David Rapach** *Saint Louis University*         |
-| **Yuying SUN** *Chinese Academy of Science*                  | **Xiaohu Wang** *Chinese University of Hong Kong* |
-| **Wenhao Wang**  *City University of Hong Kong*              | **Xingbai Xu** *Xiamen University*                |
+| **Kin Wai CHAN** *Chinese University of Hong Kong*           | **Liyuan CUI**  *City University of Hong Kong*    |
+| **Lilun DU** *Hong Kong University of Science and Technology* | **Zhonghao FU** *Fudan University*                |
+| **Jun LIAO** *Renmin University of China*                    | **David RAPACH** *Saint Louis University*         |
+| **Yuying SUN** *Chinese Academy of Sciences*                  | **Xiaohu WANG** *Chinese University of Hong Kong* |
+| **Wenhao WANG**  *City University of Hong Kong*              | **Xingbai XU** *Xiamen University*                |
 
 

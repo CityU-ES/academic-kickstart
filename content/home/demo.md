@@ -51,10 +51,10 @@ subtitle = ""
 ### &emsp;&emsp;&emsp;     August 17 2019
 ###    &emsp;&emsp;&emsp;     9:00 am -6:00 pm
 
-## Session Chair
+## Commitee
 
-### &emsp;&emsp;&emsp;          *    Gavin Feng (gavin.feng@cityu.edu.hk)
-###   &emsp;&emsp;&emsp;       *    Alan Wan (msawan@cityu.edu.hk)
+### &emsp;&emsp;&emsp;          *    Gavin FENG (gavin.feng@cityu.edu.hk)
+###   &emsp;&emsp;&emsp;       *    Alan WAN (msawan@cityu.edu.hk)
 
 ## Venue
 
