@@ -81,7 +81,7 @@ subtitle = ""
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
  |**Keynote Session (Chair: Alan WAN)**  | | |                                                   
-| Keynote   Speech: Jean-Marie Dufour|    Simple Estimators for Higher-Order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
+| Keynote   Speech: Jean-Marie Dufour|    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
 |   |***1st   Coffee Break***              | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu HAN)**  | | | 
 | Speaker   1: Xingai XU               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
@@ -95,7 +95,7 @@ with Discrete-Sampled Data                  | 11:00 - 11:30 am |
 | Speaker   6: Zhonghao FU         |    TBA                 | 3:00 - 3:30 pm   |
 |                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
  | **3rd Session (Chair: Alan WAN)** | | | 
-| Speaker   7: Kin Wai CHAN        |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time series                  | 4:00 - 4:30 pm   |
+| Speaker   7: Kin Wai CHAN        |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time Series                  | 4:00 - 4:30 pm   |
 | Speaker   8: Siying SUN          |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
 | Speaker   9: Jun LIAO               |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
 | Speaker   10: Wenhao WANG    |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:30 - 6:00 pm   |
