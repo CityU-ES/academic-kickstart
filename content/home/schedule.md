@@ -81,7 +81,7 @@ subtitle = ""
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
  |**Keynote Session (Chair: Alan WAN)**  | | |                                                   
-| Keynote   Speech: Jean-Marie Dufour|    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
+| Keynote   Speech: Jean-Marie DUFOUR |    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
 |   |***1st   Coffee Break***              | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu HAN)**  | | | 
 | Speaker   1: Xingai XU               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
