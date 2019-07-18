@@ -51,7 +51,7 @@ subtitle = ""
 ### &emsp;&emsp;&emsp;     August 17 2019
 ###    &emsp;&emsp;&emsp;     9:00 am -6:00 pm
 
-## Commitee
+## Co-Chair
 
 ### &emsp;&emsp;&emsp;              Gavin FENG 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
