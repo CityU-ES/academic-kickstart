@@ -82,17 +82,17 @@ subtitle = ""
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
  |**Starting Session (Chair: Alan WAN)**  | | |                                                   
 | Keynote   Speech: Jean-Marie Dufour|    Simple estimators for higher-order stochastic volatility models and forecasting    | 9:15 - 10:00 am  |
-|  |       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***1st   Coffee Break***              | 10:00 - 10:30 am |
+|   |***1st   Coffee Break***              | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu HAN)**  | | | 
 | Speaker   1: Xingai XU               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu WANG         |    TBA                  | 11:00 - 11:30 am |
 | Speaker   3: Lilun DU                   |    Dynamic tracking and screening in massive datastreams           | 11:30 - 12:00 pm |
-|                         |       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***Lunch   Break***       | 12:00 - 2:00 pm  |
+|                         |       ***Lunch   Break***       | 12:00 - 2:00 pm  |
  | **2nd Session (Chair: Gavin Feng)**   | | | 
 | Speaker   4: Liyuan CUI  |    TBA       | 2:00 - 2:30 pm   |
 | Speaker   5: Dave RAPACH         |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
 | Speaker   6: Zhonghao FU         |    TBA                 | 3:00 - 3:30 pm   |
-|                  |   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
+|                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
  | **3rd Session (Chair: Alan WAN)** | | | 
 | Speaker   7: Kin Wai CHAN        |    Estimator of asymptotic covariance matrix in non-stationary time series                  | 4:00 - 4:30 pm   |
 | Speaker   8: Siying SUN          |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
