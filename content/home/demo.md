@@ -54,9 +54,9 @@ subtitle = ""
 ## Commitee
 
 ### &emsp;&emsp;&emsp;              Gavin FENG 
-&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
 ###   &emsp;&emsp;&emsp;          Alan WAN 
-&emsp;&emsp;&emsp;msawan@cityu.edu.hk
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;msawan@cityu.edu.hk
 
 ## Venue
 
