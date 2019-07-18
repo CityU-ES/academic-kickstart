@@ -86,7 +86,7 @@ subtitle = ""
  | **1st Session (Chair: Xu HAN)**  | | | 
 | Speaker   1: Xingai XU               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
 | Speaker   2: Xiaohu WANG         |    TBA                  | 11:00 - 11:30 am |
-| Speaker   3: Lilun DU                   |    TBA           | 11:30 - 12:00 pm |
+| Speaker   3: Lilun DU                   |    Dynamic tracking and screening in massive datastreams           | 11:30 - 12:00 pm |
 |                         |       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***Lunch   Break***       | 12:00 - 2:00 pm  |
  | **2nd Session (Chair: Gavin Feng)**   | | | 
 | Speaker   4: Liyuan CUI  |    TBA       | 2:00 - 2:30 pm   |
