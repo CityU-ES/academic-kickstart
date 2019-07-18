@@ -80,7 +80,7 @@ subtitle = ""
 |  Session  | Paper Title | Time |
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
- |**Starting Session (Chair: Alan WAN)**  | | |                                                   
+ |**Keynote Session (Chair: Alan WAN)**  | | |                                                   
 | Keynote   Speech: Jean-Marie Dufour|    Simple Estimators for Higher-Order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
 |   |***1st   Coffee Break***              | 10:00 - 10:30 am |
  | **1st Session (Chair: Xu HAN)**  | | | 
