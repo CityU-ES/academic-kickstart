@@ -65,7 +65,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
   [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["0px", "0px", "0px", "150px"]
@@ -80,25 +80,25 @@ subtitle = ""
 |  Session  | Paper Title | Time |
 | ------------------------------------------ | ---------------- | ---------------- |
 | Openning   Speech: Dean or Head |          | 9:00 - 9:15 am   |
- |**Keynote Session (Chair: Alan WAN)**  | | |                                                   
-| Keynote   Speech: Jean-Marie DUFOUR |    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
+|**Keynote Session (Chair: Alan WAN)**  | | |
+| Keynote   Speech: **Jean-Marie DUFOUR** |    Simple Estimators for Higher-order Stochastic Volatility Models and Forecasting    | 9:15 - 10:00 am  |
 |   |***1st   Coffee Break***              | 10:00 - 10:30 am |
- | **1st Session (Chair: Xu HAN)**  | | | 
-| Speaker   1: Xingai XU               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
-| Speaker   2: Xiaohu WANG         |    Estimation and Inference of Fractional Vasicek Process with||
+| **1st Session (Chair: Xu HAN)**  | | |
+| Speaker   1: **Xingai XU**               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
+| Speaker   2: **Xiaohu WANG**     |    Estimation and Inference of Fractional Vasicek Process with||
 || Discrete-Sampled Data                  | 11:00 - 11:30 am |
-| Speaker   3: Lilun DU                   |    Dynamic Tracking and Screening in Massive Datastreams           | 11:30 - 12:00 pm |
+| Speaker   3: **Lilun DU**               |    Dynamic Tracking and Screening in Massive Datastreams           | 11:30 - 12:00 pm |
 |                         |       ***Lunch   Break***       | 12:00 - 2:00 pm  |
- | **2nd Session (Chair: Gavin FENG)**   | | | 
-| Speaker   4: Liyuan CUI  |    TBA       | 2:00 - 2:30 pm   |
-| Speaker   5: Dave RAPACH         |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
-| Speaker   6: Zhonghao FU         |    TBA                 | 3:00 - 3:30 pm   |
+| **2nd Session (Chair: Gavin FENG)**   | | |
+| Speaker   4: **Liyuan CUI** |    TBA       | 2:00 - 2:30 pm   |
+| Speaker   5: **Dave RAPACH**     |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
+| Speaker   6: **Zhonghao FU**     |    TBA                 | 3:00 - 3:30 pm   |
 |                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
- | **3rd Session (Chair: Alan WAN)** | | | 
-| Speaker   7: Kin Wai CHAN        |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time Series                  | 4:00 - 4:30 pm   |
-| Speaker   8: Siying SUN          |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
-| Speaker   9: Jun LIAO               |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
-| Speaker   10: Wenhao WANG    |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:30 - 6:00 pm   |
+| **3rd Session (Chair: Alan WAN)** | | |
+| Speaker   7: **Kin Wai CHAN**    |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time Series                  | 4:00 - 4:30 pm   |
+| Speaker   8: **Siying SUN**      |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
+| Speaker   9: **Jun LIAO**           |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
+| Speaker   10: **Wenhao WANG** |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:30 - 6:00 pm   |
 | Closing   Remarks             |           | 6:00 - 6:05 pm   |
 
 
