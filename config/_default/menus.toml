@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Program"
+  name = "Schedule"
   url = "#schedule"
   weight = 30
 
