@@ -90,9 +90,9 @@ subtitle = ""
 | Speaker   3: **Lilun DU**               |    Dynamic Tracking and Screening in Massive Datastreams           | 11:30 - 12:00 pm |
 |                         |       ***Lunch   Break***       | 12:00 - 2:00 pm  |
 | | **2nd Session (Chair: Gavin FENG)**   | |
-| Speaker   4: **Liyuan CUI** |    TBA       | 2:00 - 2:30 pm   |
+| Speaker   4: **Liyuan CUI** |    A Machine Learning Approach to Estimating Large Positive Definite Covariance Matrix of High Frequency Data    | 2:00 - 2:30 pm   |
 | Speaker   5: **Dave RAPACH**     |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
-| Speaker   6: **Zhonghao FU**     |    TBA                 | 3:00 - 3:30 pm   |
+| Speaker   6: **Zhonghao FU**     | Estimation and Testing Distributional Changes via Characteristic Function | 3:00 - 3:30 pm   |
 |                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
 | | **3rd Session (Chair: Alan WAN)** | |
 | Speaker   7: **Kin Wai CHAN**    |    Estimator of Asymptotic Covariance Matrix in Non-stationary Time Series                  | 4:00 - 4:30 pm   |
