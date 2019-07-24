@@ -85,8 +85,7 @@ subtitle = ""
 |   |***1st   Coffee Break***              | 10:00 - 10:30 am |
 | |**1st Session (Chair: Xu HAN)**  | |
 | Speaker   1: **Xingai XU**               |    Large Sample Properties of Bayesian Estimation of Spatial Econometric Models              | 10:30 - 11:00 am |
-| Speaker   2: **Xiaohu WANG**     |    Estimation and Inference of Fractional Vasicek Process with||
-|| Discrete-Sampled Data                  | 11:00 - 11:30 am |
+| Speaker   2: **Xiaohu WANG**     | Estimation and Inference of Fractional Vasicek Process with Discrete-Sampled Data |11:00 - 11:30 am|
 | Speaker   3: **Lilun DU**               |    Dynamic Tracking and Screening in Massive Datastreams           | 11:30 - 12:00 pm |
 |                         |       ***Lunch   Break***       | 12:00 - 2:00 pm  |
 | | **2nd Session (Chair: Gavin FENG)**   | |
