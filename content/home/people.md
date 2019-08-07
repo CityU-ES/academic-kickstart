@@ -85,7 +85,7 @@ css_class = ""
 | **Kin Wai CHAN** *Chinese University of Hong Kong*           | **Liyuan CUI**  *City University of Hong Kong*    |
 | **Lilun DU** *Hong Kong University of Science and Technology* | **Zhonghao FU** *Fudan University*                |
 | **Jun LIAO** *Renmin University of China*                    | **David RAPACH** *Saint Louis University*         |
-| **Yuying SUN** *Chinese Academy of Sciences*                  | **Xiaohu WANG** *Chinese University of Hong Kong* |
-| **Wenhao WANG**  *City University of Hong Kong*              | **Xingbai XU** *Xiamen University*                |
+| **Yuying SUN** *Chinese Academy of Sciences*                  |  **Wenhao WANG**  *City University of Hong Kong*              |
+| **Xingbai XU** *Xiamen University*                | |
 
 
