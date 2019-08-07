@@ -92,11 +92,11 @@ subtitle = ""
 | Speaker   4: **Liyuan CUI** |    A Machine Learning Approach to Estimating Large Positive Definite Covariance Matrix of High Frequency Data    | 2:00 - 2:30 pm   |
 | Speaker   5: **Dave RAPACH**     |    The Rise and Fall of the Carry Trade: Links to Currency Return Predictability                  | 2:30 - 3:00 pm   |
 | Speaker   6: **Zhonghao FU**     | Estimation and Testing Distributional Changes via Characteristic Function | 3:00 - 3:30 pm   |
-|                  |  ***2nd   Coffee Break***   | 3:30 - 4:30 pm   |
+|                  |  ***2nd   Coffee Break***   | 3:30 - 4:00 pm   |
 | | **3rd Session (Chair: Alan WAN)** | |
-| Speaker   7: **Siying SUN**      |    Model Averaging for Interval-valued Data                 | 4:30 - 5:00 pm   |
-| Speaker   8: **Jun LIAO**           |    Frequentist Model Averaging for the Nonparametric Additive Model               | 5:00 - 5:30 pm   |
-| Speaker   9: **Wenhao WANG** |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:30 - 6:00 pm   |
-| Closing   Remarks             |           | 6:00 - 6:05 pm   |
+| Speaker   7: **Siying SUN**      |    Model Averaging for Interval-valued Data                 | 4:00 - 4:30 pm   |
+| Speaker   8: **Jun LIAO**           |    Frequentist Model Averaging for the Nonparametric Additive Model               | 4:30 pm - 5:00 pm   |
+| Speaker   9: **Wenhao WANG** |    A Jackknife Model Averaging Analysis of RMB Misalignment Estimates                      | 5:00 - 5:30 pm   |
+| Closing   Remarks             |           | 5:30 - 5:35 pm   |
 
 
